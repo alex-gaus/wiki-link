@@ -1,2 +1,5 @@
 # wiki-link
-Gives the fitting wiki-data link to the wikipedia-ida
+@_gobitodic
+Gives the fitting wiki-data link to the wikipedia-id
+
+
